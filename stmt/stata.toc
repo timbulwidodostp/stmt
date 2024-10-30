@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p stmt Modelling multiple timescales using flexible parametric survival models on the log hazard scale Use stmt With STATA 18
