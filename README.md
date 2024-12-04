@@ -1,6 +1,8 @@
 # stmt
 Modelling multiple timescales using flexible parametric survival models on the log hazard scale Use stmt With STATA 18
 
+https://www.youtube.com/watch?v=P0TyXGDjBDE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
